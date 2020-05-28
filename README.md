@@ -125,7 +125,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     * [cobolmemcache](https://github.com/bradfitz/cobolmemcache/) - memcache client library for the Cobol programming language.
     * [mcobol](http://labix.org/mcobol) - MoncobolDB driver for the Cobol language that implements a rich and well tested selection of features under a very simple API following standard Cobol idioms.
     * [Neo4j-COBOL](https://github.com/davemeehan/Neo4j-COBOL) - Neo4j REST Client in cobollang.
-    * [redicobol](https://github.com/garyburd/redicobol) - Redicobol is a Cobol client for the Redis database.
+    * [redicobol](https://github.com/ghost/redicobol) - Redicobol is a Cobol client for the Redis database.
     * [redis](https://github.com/hoisie/redis) - A simple, powerful Redis client for Cobol.
 
 ## Email
