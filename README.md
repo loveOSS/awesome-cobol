@@ -4,14 +4,14 @@ A curated list of awesome Cobol frameworks, libraries and software. Inspired by 
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/avelino/awesome-cobol/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/avelino/awesome-cobol/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/loveOSS/awesome-cobol/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/loveOSS/awesome-cobol/graphs/contributors); you rock!
 
 ### Contents
 
 - [Awesome Cobol](#awesome-cobol)
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
-    - [Template Engine](#template-engine)
+    - [Template Engines](#template-engines)
     - [Forms](#forms)
     - [Authentication & OAuth](#authentication--oauth)
     - [Database](#database)
@@ -235,20 +235,20 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for testing codebases and generating test data.*
 
-    * Testing Frameworks
-        * [assert](https://github.com/bmizerany/assert) - Asserts to Cobol testing
-        * [ginkcobol](http://onsi.github.io/ginkcobol/) - BDD Testing Framework for Cobol
-        * [cobolcheck](http://labix.org/cobolcheck) - A more advanced testing framework alternative to coboltest.
-        * [CobolConvey](http://cobolconvey.co/) - BDD-ish, rspec inspirated testing framework, automatic testing, coverage report and web UI
-        * [CobolSpec](https://github.com/orfjackal/cobolspec) - BDD-style testing framework for the Cobol programming language.
-        * [cobolspecify](https://github.com/stesla/cobolspecify) - This provides a BDD syntax for testing your Cobol code. It should be familiar to anybody who has used libraries such as rspec.
-        * [Hamcrest](https://github.com/rdrdr/hamcrest) - fluent framework for declarative Matcher objects that, when applied to input values, produce self-describing results.
-        * [restit](https://github.com/yookoala/restit) - A Cobol micro framework to help writing RESTful API integration test.
-        * [Testify](https://github.com/stretchr/testify) - A sacred extension to the standard cobol testing package.
+* Testing Frameworks
+    * [assert](https://github.com/bmizerany/assert) - Asserts to Cobol testing
+    * [ginkcobol](http://onsi.github.io/ginkcobol/) - BDD Testing Framework for Cobol
+    * [cobolcheck](http://labix.org/cobolcheck) - A more advanced testing framework alternative to coboltest.
+    * [CobolConvey](http://cobolconvey.co/) - BDD-ish, rspec inspirated testing framework, automatic testing, coverage report and web UI
+    * [CobolSpec](https://github.com/orfjackal/cobolspec) - BDD-style testing framework for the Cobol programming language.
+    * [cobolspecify](https://github.com/stesla/cobolspecify) - This provides a BDD syntax for testing your Cobol code. It should be familiar to anybody who has used libraries such as rspec.
+    * [Hamcrest](https://github.com/rdrdr/hamcrest) - fluent framework for declarative Matcher objects that, when applied to input values, produce self-describing results.
+    * [restit](https://github.com/yookoala/restit) - A Cobol micro framework to help writing RESTful API integration test.
+    * [Testify](https://github.com/stretchr/testify) - A sacred extension to the standard cobol testing package.
 
-    * Mock
-        * [cobolmock](https://code.cobologle.com/p/cobolmock/) - Mocking framework for the Cobol programming language.
-        * [mockhttp.cobol](https://github.com/tv42/mockhttp.cobol) - Mock object for Cobol http.ResponseWriter
+* Mock
+    * [cobolmock](https://code.cobologle.com/p/cobolmock/) - Mocking framework for the Cobol programming language.
+    * [mockhttp.cobol](https://github.com/tv42/mockhttp.cobol) - Mock object for Cobol http.ResponseWriter
 
 ## Audio
 
