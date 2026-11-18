@@ -345,6 +345,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [cobolx](https://github.com/mitchellh/cobolx) - A dead simple, no frills Cobol cross compile tool.
 * [cobolxc](https://github.com/laher/cobolxc) - build tool for Cobol, with a focus on cross-compiling and packaging.
 * [mp](https://github.com/sanbornm/mp) - A simple cli email parser. It currently takes stdin and outputs JSON.
+* [Iron-Silicon Bridge COMP-3 & 4HRA Workbench](https://github.com/digbijoylabs/iron-silicon-bridge) - Zero-backend browser COBOL COMP-3 packed-decimal byte inspector, IBM 4HRA MSU TCO estimator, and 100+ COBOL/JCL/CICS/Db2 modernization blueprints.
 
 ## Logging
 
